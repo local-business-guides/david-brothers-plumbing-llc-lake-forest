@@ -23,6 +23,9 @@
 - [Trusted Plumber Ca Lake Forest | David Brothers Plumbing](https://local-business-guides.github.io/david-brothers-plumbing-llc-lake-forest/trusted-plumber-ca-lake-forest/): Trusted Plumber Ca Lake Forest help for plumbing questions, with practical steps and a local address in Lake Forest, CA. Call David Brothers Plumbing LLC toda
 - [Near Me Plumber in Lake Forest | David Brothers Plumbing](https://local-business-guides.github.io/david-brothers-plumbing-llc-lake-forest/near-me-plumber/): Searching for Near Me Plumber help in Lake Forest, CA? Get a useful checklist before you call. Speak with David Brothers Plumbing LLC today.
 
+## Newsroom
+- [David Brothers Plumbing LLC Publishes Plumber Lake Forest CA Guide](https://local-business-guides.github.io/david-brothers-plumbing-llc-lake-forest/news/2026-11-07-david-brothers-plumbing-llc-publishes-plumber-lake/): David Brothers Plumbing LLC published a guide on Plumber Lake Forest CA, along with a YouTube video, podcast episode and SoundCloud audio version. (2026-11-07)
+
 ## Pages
 - [Plumber in Lake Forest, California](https://local-business-guides.github.io/david-brothers-plumbing-llc-lake-forest/): Get plumbing help close to home in Lake Forest, with a clear way to reach David Brothers Plumbing LLC any time of day. Call +1949-997-2500.
 - [About David Brothers Plumbing LLC](https://local-business-guides.github.io/david-brothers-plumbing-llc-lake-forest/about/): About David Brothers Plumbing LLC, Lake Forest.
@@ -30,4 +33,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/david-brothers-plumbing-llc-lake-forest/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/david-brothers-plumbing-llc-lake-forest/news/rss.xml)
 - [Main resource site](https://david-brothers-plumbing-lake-forest.localbusinesses1.chatgpt.site)
